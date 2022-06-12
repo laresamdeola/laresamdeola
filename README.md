@@ -4,8 +4,8 @@ I am a Computer Scientist and Machine Learning Engineer, currently building both
 
 #### PROJECTS
 
-- [x] [SEEDS]() - a web application that uses Machine Learning to predict if a man has fertility issues. You can view the live application [here](https://seedswebapp.herokuapp.com/home).
-- [x] [rookie]() - a web application that uses Machine Learning to predict the expected income level of Software Engineers. You can view it [here](https://futuresalary2app.herokuapp.com/).
+- [x] [SEEDS]() - a web application that uses Machine Learning to predict if a man has fertility issues. You can view the live application [here](https://seedswebapp.herokuapp.com/home).[seeds snapshot](./seeds.jpg)
+- [x] [rookie]() - a web application that uses Machine Learning to predict the expected income level of Software Engineers. You can view it [here](https://futuresalary2app.herokuapp.com/).[rookie snapshot](./rookie.jpg)
 - [x] [WatchDog]() - a web application that uses Machine Learning to predict if one has early stage diabetes. You can view it [here](https://diabeteswatchdog.herokuapp.com/home).
 - [ ] [371]() - a web directory of all the 371 ethnic tribes in Nigeria. Still in development but it's [live](https://the371tribesofnaija.herokuapp.com/home.html).
 - [x] [IDNLT!]() - an API that contains information about the different Sexually Transmitted Infections. You can fetch data from this url [endpoint](http://idnlt-api2.herokuapp.com/infections).
