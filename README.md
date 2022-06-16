@@ -1,5 +1,5 @@
 #### Lare Sam-Deola 🖥️
-![badge1](https://img.shields.io/badge/language-python-black) ![badge2](https://img.shields.io/badge/language-javascript-black) ![badge3](https://img.shields.io/badge/language-ruby-black) ![fields1](https://img.shields.io/badge/fields-machine%20learning-orange) ![fields2](https://img.shields.io/badge/fields-front--end-orange) ![fields3](https://img.shields.io/badge/fields-computer%20vision-orange)
+![badge1](https://img.shields.io/badge/python-black) ![badge2](https://img.shields.io/badge/javascript-black) ![badge3](https://img.shields.io/badge/ruby-black) ![fields1](https://img.shields.io/badge/fields-machine%20learning-orange) ![fields2](https://img.shields.io/badge/fields-front--end-orange) ![fields3](https://img.shields.io/badge/fields-computer%20vision-orange)
 
 I am a Computer Scientist and Machine Learning Engineer, that builds Machine Learning web applications.
 
