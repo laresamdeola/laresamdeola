@@ -5,12 +5,12 @@ I am a Computer Scientist and Machine Learning Engineer, that builds Machine Lea
 
 #### PROJECTS 🤟
 
-- [x] [SEEDS]() - a web application that uses Machine Learning to predict if a man has fertility issues. You can view the live application [here](https://seedswebapp.herokuapp.com/home) and [documentation](https://github.com/laresamdeola/seeds/blob/main/README.md).
-- [x] [rookie]() - a web application that uses Machine Learning to predict the expected income level of Software Engineers. You can view it [here](https://futuresalary2app.herokuapp.com/) and [documentation](https://github.com/laresamdeola/rookie/blob/main/README.md).
-- [x] [WatchDog]() - a web application that uses Machine Learning to predict if one has early stage diabetes. You can view it [here](https://diabeteswatchdog.herokuapp.com/home) and [documentation](https://github.com/laresamdeola/WatchDog/blob/main/README.md).
-- [x] [371]() - a web directory of all the 371 ethnic tribes in Nigeria. Still in development but it's [live](https://the371tribesofnaija.herokuapp.com/home.html) and [documentation](https://github.com/laresamdeola/371/blob/main/README.md).
-- [x] [IDNLT!]() - an API that contains information about the different Sexually Transmitted Infections. You can fetch data from this url [endpoint](http://idnlt-api2.herokuapp.com/infections) and [documentation](https://github.com/laresamdeola/idnlt-api#readme).
-- [x] [Chores]() - a simple to-do app whereby you can create, save and update you to-do chores for the day. It wipes out after 24hours. You can view it [here](https://todocrudflaskapp.herokuapp.com/) and [documentation]().
+- [x] [SEEDS](https://seedswebapp.herokuapp.com/home) - a web application that uses Machine Learning to predict if a man has fertility issues. You can view the live application [here](https://seedswebapp.herokuapp.com/home) and [documentation](https://github.com/laresamdeola/seeds/blob/main/README.md).
+- [x] [rookie](https://futuresalary2app.herokuapp.com/) - a web application that uses Machine Learning to predict the expected income level of Software Engineers. You can view it [here](https://futuresalary2app.herokuapp.com/) and [documentation](https://github.com/laresamdeola/rookie/blob/main/README.md).
+- [x] [WatchDog](https://diabeteswatchdog.herokuapp.com/home) - a web application that uses Machine Learning to predict if one has early stage diabetes. You can view it [here](https://diabeteswatchdog.herokuapp.com/home) and [documentation](https://github.com/laresamdeola/WatchDog/blob/main/README.md).
+- [x] [371](https://the371tribesofnaija.herokuapp.com/home.html) - a web directory of all the 371 ethnic tribes in Nigeria. Still in development but it's [live](https://the371tribesofnaija.herokuapp.com/home.html) and [documentation](https://github.com/laresamdeola/371/blob/main/README.md).
+- [x] [IDNLT!](http://idnlt-api2.herokuapp.com/infections) - an API that contains information about the different Sexually Transmitted Infections. You can fetch data from this url [endpoint](http://idnlt-api2.herokuapp.com/infections) and [documentation](https://github.com/laresamdeola/idnlt-api#readme).
+- [x] [Chores](https://todocrudflaskapp.herokuapp.com/) - a simple to-do app whereby you can create, save and update you to-do chores for the day. It wipes out after 24hours. You can view it [here](https://todocrudflaskapp.herokuapp.com/) and [documentation]().
 - [ ] [petnames]() - a web application that suggests random petnames for your loved one, based on certain criterias. Still in development.
 - [ ] [Elegushi]() - a website of the scenic beach in Lagos, Nigeria. Still in development.
 
