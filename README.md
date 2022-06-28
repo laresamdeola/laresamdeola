@@ -12,7 +12,7 @@ I am a Computer Scientist and Machine Learning Engineer, that builds Machine Lea
 - [x] [IDNLT!](http://idnlt-api2.herokuapp.com/infections) - an API that contains information about the different Sexually Transmitted Infections. You can fetch data from this url [endpoint](http://idnlt-api2.herokuapp.com/infections) and [documentation](https://github.com/laresamdeola/idnlt-api#readme).
 - [x] [Chores](https://todocrudflaskapp.herokuapp.com/) - a simple to-do app whereby you can create, save and update you to-do chores for the day. It wipes out after 24hours. You can view it [here](https://todocrudflaskapp.herokuapp.com/) and [documentation]().
 - [ ] [petnames]() - a web application that suggests random petnames for your loved one, based on certain criterias. Still in development.
-- [ ] [Elegushi]() - a website of the scenic beach in Lagos, Nigeria. Still in development.
+- [x] [Elegushi]() - a website of the scenic beach in Lagos, Nigeria. Still in development.
 
 #### FUTURE PROJECTS 💡
 
