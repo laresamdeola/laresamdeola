@@ -44,6 +44,7 @@ I am interested in collaborating on projects and ideas that impact people's live
 - [x] POSTGRES
 - [x] MONGODB
 - [x] FLASK
+- [x] BASH
 
 ##### MACHINE LEARNING 🤖
 - [x] PYTHON
