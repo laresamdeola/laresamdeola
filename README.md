@@ -1,8 +1,6 @@
 #### Lare Sam-Deola 🖥️
 ![badge1](https://img.shields.io/badge/python-black) ![badge2](https://img.shields.io/badge/javascript-black) ![badge3](https://img.shields.io/badge/ruby-black) ![fields1](https://img.shields.io/badge/fields-machine%20learning-orange) ![fields2](https://img.shields.io/badge/fields-front--end-orange) ![fields3](https://img.shields.io/badge/fields-computer%20vision-orange)
 
-I am a Computer Scientist and Machine Learning Engineer, that builds Machine Learning web applications.
-
 #### PROJECTS 🤟
 
 - [x] [SEEDS](https://seedswebapp.herokuapp.com/home) - a web application that uses Machine Learning to predict if a man has fertility issues. You can view the live application [here](https://seedswebapp.herokuapp.com/home) and [documentation](https://github.com/laresamdeola/seeds/blob/main/README.md).
