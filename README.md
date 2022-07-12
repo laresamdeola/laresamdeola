@@ -15,7 +15,7 @@
 
 #### FUTURE PROJECTS 💡
 
-- [ ] A web application that uses Computer Vision and Deep Learning to classify fake and real currencies.
+- [x] A web application that uses Computer Vision and Deep Learning to classify fake and real currencies.
 - [ ] A simple python package that converts text to camelCase
 
 #### COLLABORATIONS 🎆
