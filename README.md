@@ -11,6 +11,7 @@
 - [ ] [petnames]() - a web application that suggests random petnames for your loved one, based on certain criterias. Still in development.
 - [x] [Elegushi]() - a website of the scenic beach in Lagos, Nigeria. Still in development.
 - [x] [nollymemes](nollymemes.netlify.app) - a website that houses memes from Nigerian Nollywood films.
+- [x] sti-index - a web aplication that uses Natural Language Processing to predict one's STI.
 
 #### FUTURE PROJECTS 💡
 
